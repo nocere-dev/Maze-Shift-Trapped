@@ -6,6 +6,10 @@
 
 This repo serves as documentation for my board game "Maze Shift: Trapped", a project for my Game Design Fundimentals module in university.
 
+<kbd font-weight: bold> <br> [Open Documentation][Link] <br> </kbd>
+
+[Link]: BoardGame.md
+
 ## Authors
 
 [@nocere-dev](https://github.com/nocere-dev)
