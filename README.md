@@ -1,4 +1,5 @@
-![Logo](https://github.com/user-attachments/assets/02626526-686e-471f-a470-72a929ecbcda)
+<div align="center">
+  <img src=https://github.com/user-attachments/assets/02626526-686e-471f-a470-72a929ecbcda>
 
 # Maze Shift: Trapped
 
@@ -8,4 +9,4 @@ This repo serves as documentation for my board game "Maze Shift: Trapped", a pro
 ## Authors
 
 - [@nocere-dev](https://github.com/nocere-dev)
-
+</div>
