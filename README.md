@@ -8,5 +8,5 @@ This repo serves as documentation for my board game "Maze Shift: Trapped", a pro
 
 ## Authors
 
-- [@nocere-dev](https://github.com/nocere-dev)
+[@nocere-dev](https://github.com/nocere-dev)
 </div>
