@@ -4,6 +4,7 @@
 	
  <img src=https://github.com/user-attachments/assets/02626526-686e-471f-a470-72a929ecbcda>
 
+---
 
 This repo serves as documentation for my board game "Maze Shift", a project for my Game Design Fundimentals module in university.
 
