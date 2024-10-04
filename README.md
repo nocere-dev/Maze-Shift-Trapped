@@ -1,5 +1,6 @@
-<div align="center">
- 
+<div align="centre" style="float:left">
+
+
 # Maze Shift 
 	
  <img src=https://github.com/user-attachments/assets/02626526-686e-471f-a470-72a929ecbcda>
@@ -7,7 +8,6 @@
 ---
 
 This repo serves as documentation for my board game "Maze Shift", a project for my Game Design Fundimentals module in university.
-
 
 
 ### Story
@@ -34,18 +34,18 @@ Trust no one. Escape is the only option. Only those who outwit both the labyrint
 
 ### Objective:
 
-- The goal is to be the first player to collect a treasure and reach an escape point. Surviving the labyrinth
+ - The goal is to be the first player to collect a treasure and reach an escape point. Surviving the labyrinth
 
 ### Gameplay:
 
-- Each player’s turn consists of two main actions:
+ - Each player’s turn consists of two main actions:
 
 	1. **Shifting the Maze**:
 	    
 	    - The extra tile is used to shift the maze.
 	    - Players insert this tile into one of the open edges of the board, which pushes an entire row or column of tiles, thus changing the pathways.
 		- One tile is pushed off the board, becoming the new extra tile for the next player.
-	2. **Moving Your Token**:
+  	2. **Moving Your Token**:
 		    
 		- After shifting the maze, players will roll a dice and move their token along the pathways as many tiles as displayed on the die, but only along connected paths.
 		- Players try to reach the a treasure while avoiding the monsters.
