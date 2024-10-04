@@ -1,12 +1,13 @@
 <div align="center">
-  <img src=https://github.com/user-attachments/assets/02626526-686e-471f-a470-72a929ecbcda>
+ 
+# Maze Shift 
+	
+ <img src=https://github.com/user-attachments/assets/02626526-686e-471f-a470-72a929ecbcda>
 
 
 This repo serves as documentation for my board game "Maze Shift", a project for my Game Design Fundimentals module in university.
 
 
-
-# Maze Shift
 
 ### Story
 In what remains of a broken world, survival alone is not enough. You have been captured by _The Architect_, the overseer of this shattered reality, and chosen to endure his brutal game—_Maze Shift_. This ever-shifting labyrinth conceals ancient artifacts, relics from a world long gone, that may be your only key to freedom. But the maze holds dark secrets. Monsters lurk in the shadows, and the greatest threat may come from those trapped beside you.
