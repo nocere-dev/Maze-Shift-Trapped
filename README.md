@@ -52,13 +52,13 @@ These are shuffled and placed randomly on the board, with a deck of left over ti
 ### **Ability Cards**: 
 Each player is also dealt 5 ability cards, these cards can be used to escape unfortunate situations like if you get trapped you could "nullify" the trap so it doesn't go off.
   
-###**Player Tokens**: 
+### **Player Tokens**: 
 Players choose a token and place it on their starting point, located at one of the centre of the board.
   
-###**Trapped Cards**: 
+### **Trapped Cards**: 
 Some cards will be marked with a padlock, if a player lands on this card they have the option to roll the dice and take the chance it isn't trapped. If the player rolls an odd number the trap is activated and must move back the number of spaces shown on the dice, if the player rolls an even number the trap is not activated and the player can move forward the number of spaces shown on the dice. Alternatively the player can forfeit the chance and move back one space.
   
-###**Monsters**: 
+### **Monsters**: 
 Depending on the amount of players there will either be 1 or 2 hunters, these players will start at the corners of the board and try to work their way inwards to kill the escapees.
   
 
@@ -129,7 +129,7 @@ The game ends when a player collects at least one treasure and escapes through a
     </summary>
 </ul>
 
-###**Forbidden Moves**: 
+### **Forbidden Moves**: 
 You can’t push a tile back into the same row/column that was shifted by the previous player.
   
 ### **Token Interaction**: 
